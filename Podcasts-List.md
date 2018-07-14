@@ -7,7 +7,7 @@ List of Persian podcasts in the alphabetical order.
 |1|[Sexology](https://itunes.apple.com/us/podcast/sexology/id1120344987?mt=2)|no|---|
 |2|استرینگ‌کست - [StringCast](https://itunes.apple.com/us/podcast/stringcast/id1071231748?mt=2)|yes|---|
 |3|آوک - [Avoc](https://itunes.apple.com/us/podcast/avoc-%D8%A2%D9%88%D8%A7%DA%A9/id1146166054?mt=2)|yes|---|
-|4| بی‌پلاس - [Bplus](https://itunes.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-bplus/id1378125252?mt=2)|yes|---|
+|4| بی‌پلاس - [Bplus](https://itunes.apple.com/us/podcast/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%DB%8C-%D9%BE%D9%84%D8%A7%D8%B3-bplus/id1378125252?mt=2)|yes|https://bpluspodcast.com/|
 |5|چنل‌بی - [ChannelB](https://itunes.apple.com/us/podcast/channelb/id1070642732?mt=2)|yes|http://channelbpodcast.com|
 |6|خانه‌های من - [MyHomes](https://itunes.apple.com/us/podcast/myhomespodcast/id1331026409?mt=2)|yes|---|
 |7|دایجست - [Digesttt](https://itunes.apple.com/us/podcast/digesttt-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AF%D8%A7%DB%8C%D8%AC%D8%B3%D8%AA/id1355302117?mt=2)|yes|---|
