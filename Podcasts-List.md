@@ -26,3 +26,4 @@ List of Persian podcasts in the alphabetical order.
 |20|کتاب‌ها و اندیشه‌ها|yes|[website](https://itunes.apple.com/us/podcast/%DA%A9%D8%AA%D8%A7%D8%A8-%D9%87%D8%A7-%D9%88-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D9%87%D8%A7/id1004965913?mt=2)|
 |21|کرن - koron|yes|[website](https://itunes.apple.com/us/podcast/koron/id1352819961?mt=2)|
 |22|گاه‌شنود قاصدک|yes|[website](https://itunes.apple.com/us/podcast/%DA%AF%D8%A7%D9%87-%D8%B4%D9%86%D9%88%D8%AF-%D9%82%D8%A7%D8%B5%D8%AF%DA%A9/id382978886?mt=2)|
+|23|آگاه باش|yes|[website](https://anchor.fm/agahbash)|
